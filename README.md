@@ -1,6 +1,6 @@
 # Chiffrement_Cesar_ASCII
 
-Projet personnel réalisé sous Intellij avec Java. Ce projet a été  réalisé  en solo dans un temps imparti de 2 heures. 
+Projet personnel réalisé sous Intellij avec Java. Ce projet a été  réalisé  en solo dans un temps imparti de 2h45. 
 
 Chiffrement d'un texte en entrée avec le codage César. 
 
